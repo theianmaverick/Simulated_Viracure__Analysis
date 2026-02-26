@@ -24,4 +24,10 @@ The duration of the study was a 14-day, once a day oral tablet with a 28-day pos
 - Adverse events
 
 ## Statistical Methods
-
+The statistical methods used in this study include:
+- Descriptive Analyses (Mean, sd, frequency tables)
+- T-test
+- Logistic Regression
+- Cox Proportional Hazards Model
+- Kaplan-Meier Curves
+- Multivariate Linear Regression
